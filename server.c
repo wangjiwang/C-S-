@@ -5,10 +5,8 @@
 #include <string.h>
 #include <arpa/inet.h>
 #include <unistd.h>
-
 #define MAXLINE 4096
 #define LISTENQ 1024
-
 
 int main(int argc, char ** argv)
 {
